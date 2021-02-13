@@ -30,3 +30,5 @@ def write_data_to_csv(params):
     return print(restaurants)
 
 write_data_to_csv(PARAMS)
+
+print("a社commit")
